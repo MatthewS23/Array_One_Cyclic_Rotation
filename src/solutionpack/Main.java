@@ -2,6 +2,7 @@ package solutionpack;
 
 //testing git reset hard
 
+//testing git reset 2
 public class Main {
 
     public static void main(String[] args) {
